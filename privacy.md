@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # DocuWatch Privacy Policy
 
-*Effective 27 October 2026*
+*Effective 30 October 2026*
 
 Your documents stay on your iPhone.
 
@@ -17,9 +17,9 @@ Nothing. DocuWatch has no account, no servers, no analytics, no advertising and 
 
 The documents you add (holder name, type, country, expiry date, notes and renewal history) and your settings are saved on your iPhone only. If your iPhone uses iCloud Backup or a computer backup, iOS includes this data in that backup, protected by your Apple Account. We can't read it.
 
-## Camera
+## Camera and photos
 
-The camera is used only when you choose to scan a passport or ID card. The machine-readable lines are read on the device by Apple's Vision framework. No photos are saved or sent anywhere.
+The camera is used only when you choose to scan a passport or ID card, or to photograph a card so its expiry date can be read. You can also choose a photo or screenshot instead; DocuWatch receives only the image you pick, not your photo library. Text is read on the device by Apple's Vision framework, and images are never saved or sent anywhere.
 
 ## Face ID and passcode
 
